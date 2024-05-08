@@ -7,3 +7,4 @@ Topics Covered :
  4. Using the map's showed the current location of the user in the app with the latitude and longitude in the home page.
  5. Architecture used MVVM
  6. Data sharing using App delegate and Segue and etc
+ 7. Farmeworks: Core Data,Maps,UIKit,UIFoundation,Location,Firebase.
